@@ -1,2 +1,2 @@
-# http-www.godsquadgaming.club-
+# http-www.godsquadgaming.club
 GodSquad Gaming Website
